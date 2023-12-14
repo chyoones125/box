@@ -1,0 +1,20 @@
+body{
+    font-size: 16px;
+    background-color: blue;
+}
+.container{
+  
+    margin: 20px 0px;
+}
+.cart{
+    background-color:rgba(0,0,0,0.2);
+
+    height: 450px;
+}
+.cart .box{
+    
+}
+.cart .box .title{
+    color: #333;
+    font-size: 1.6em;
+}
